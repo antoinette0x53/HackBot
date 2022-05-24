@@ -1,0 +1,2 @@
+# HackBot
+dsmHack Info Bot
